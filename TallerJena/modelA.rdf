@@ -1,0 +1,111 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <rdf:Description rdf:about="http://www.animals.com/marinos">
+    <vcard:N>
+      <rdf:Description rdf:about="http://www.animals.com/pinguino/">
+        <vcard:PHOTO>https://i.pinimg.com/originals/a7/dc/9a/a7dc9a19e4665443d9962671017b1022.jpg</vcard:PHOTO>
+        <vcard:Other>Aletas</vcard:Other>
+        <vcard:LABEL>Los pingüinos son bien conocidos por su elegante (como vestido de traje), apariencia, – con su blanco y negro, lo cual les da una apariencia única. Son una especie de ave, sin embargo no son capaces de volar.</vcard:LABEL>
+      </rdf:Description>
+    </vcard:N>
+    <vcard:N>
+      <rdf:Description rdf:about="http://www.animals.com/pez/">
+        <vcard:PHOTO>https://i.pinimg.com/originals/c6/22/46/c62246068f0ee19a89903e4ecc6010f0.jpg</vcard:PHOTO>
+        <vcard:PHOTO>https://i.pinimg.com/originals/e8/78/5e/e8785ed1ac5741da44321c042daf3b37.jpg</vcard:PHOTO>
+        <vcard:Other>Aletas</vcard:Other>
+        <vcard:LABEL>Son animales vertebrados primariamente acuáticos, generalmente ectotérmicos (regulan su temperatura a partir del medio ambiente) y con respiración por branquias.</vcard:LABEL>
+      </rdf:Description>
+    </vcard:N>
+    <vcard:N>
+      <rdf:Description rdf:about="http://www.animals.com/delfin/">
+        <vcard:PHOTO>https://i.pinimg.com/originals/8b/bd/c8/8bbdc83b4d8cf2d08e0838a5423179f7.jpg</vcard:PHOTO>
+        <vcard:Other>Aletas</vcard:Other>
+        <vcard:LABEL>Los delfines interactúan con los seres humanos desde que su existencia es conocida. Desde entonces, su depredador más peligroso, y el único que ha reducido drásticamente su población es el hombre</vcard:LABEL>
+      </rdf:Description>
+    </vcard:N>
+    <vcard:N>
+      <rdf:Description rdf:about="http://www.animals.com/ballena/">
+        <vcard:PHOTO>https://i.pinimg.com/originals/c9/1f/77/c91f7783c3584a1d00f64b878143a67f.jpg</vcard:PHOTO>
+        <vcard:Other>Aletas</vcard:Other>
+        <vcard:LABEL>Las ballenas pertenecen a la orden de los cetáceos, lo que significa que son mamíferos totalmente  adaptados a la vida acuática. Son descendientes de animales terrestres que volvieron al agua después de haber vivido millones de años en la tierra. </vcard:LABEL>
+      </rdf:Description>
+    </vcard:N>
+    <vcard:N>
+      <rdf:Description rdf:about="http://www.animals.com/tiburon/">
+        <vcard:PHOTO>https://i.pinimg.com/originals/88/d1/dd/88d1dd169bad606facec21c23c1f0782.jpg</vcard:PHOTO>
+        <vcard:Other>Aletas</vcard:Other>
+        <vcard:LABEL>Todos los tiburones tienen varias filas de dientes, y aunque pierden dientes regularmente, nuevos dientes les continúan creciendo y reemplazando a los que se pierden.</vcard:LABEL>
+      </rdf:Description>
+    </vcard:N>
+    <vcard:N>
+      <rdf:Description rdf:about="http://www.animals.com/besugo/">
+        <vcard:PHOTO></vcard:PHOTO>
+        <vcard:Other>Aletas</vcard:Other>
+        <vcard:LABEL>Recibe tambien el nombre de voraz o pancho, este pez vive formando bancos pequeños en fondos arenosos cerca de acantilados rocosos. Su alimentacion es de peces, crustaceos y moluscos</vcard:LABEL>
+      </rdf:Description>
+    </vcard:N>
+    <vcard:AGENT>Nadadores</vcard:AGENT>
+    <vcard:LABEL>Los animales marinos viven en el mar su principal distintivo es la necesidad de permanecer en el agua salada o gran parte dentro de ella.</vcard:LABEL>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.animals.com/aves">
+    <vcard:N>
+      <rdf:Description rdf:about="http://www.animals.com/pajaro/">
+        <vcard:PHOTO>https://i.pinimg.com/originals/bf/ff/eb/bfffeb8f9ede82e502d847d3d45c2b9c.jpg</vcard:PHOTO>
+        <vcard:Other>Alas</vcard:Other>
+        <vcard:LABEL>Los pájaros constituyen más de la mitad de todas las aves que existen, aproximadamente sobre 5300 especies. En general se trata de animales pequeños, con cabeza pequeña y cuerpo esbelto.</vcard:LABEL>
+      </rdf:Description>
+    </vcard:N>
+    <vcard:N>
+      <rdf:Description rdf:about="http://www.animals.com/canario/">
+        <vcard:PHOTO>https://i.pinimg.com/originals/f9/a1/81/f9a181357a920008789a0304fc4d4fee.jpg</vcard:PHOTO>
+        <vcard:Other>Alas</vcard:Other>
+        <vcard:LABEL>El canario, también conocido como canario silvestre o serín canario y científicamente como Serinus canaria es un símbolo natural de las Islas Canarias en España.</vcard:LABEL>
+      </rdf:Description>
+    </vcard:N>
+    <vcard:N>
+      <rdf:Description rdf:about="http://www.animals.com/Buitre/">
+        <vcard:PHOTO>https://i.pinimg.com/originals/0a/56/59/0a5659e38f290a4b08b8dc261c7ac798.jpg</vcard:PHOTO>
+        <vcard:Other>Alas</vcard:Other>
+        <vcard:LABEL>Los buitres son aves rapaces del orden Falconiformes que suelen alimentarse especialmente de animales muertos, aunque a falta de estos, son capaces de cazar presas vivas.</vcard:LABEL>
+      </rdf:Description>
+    </vcard:N>
+    <vcard:N>
+      <rdf:Description rdf:about="http://www.animals.com/Papagayo/">
+        <vcard:PHOTO>https://i.pinimg.com/originals/4e/61/4c/4e614c752f79dcef73077bcbbeb96dff.jpg</vcard:PHOTO>
+        <vcard:Other>Alas</vcard:Other>
+        <vcard:LABEL>Ave trepadora de 30 a 40 cm de longitud, con el plumaje de colores muy vistosos y variados, y el pico fuerte, grueso y curvo; es capaz de imitar la voz humana; es propio de los bosques de los países tropicales, pero en domesticidad puede vivir en climas templados.</vcard:LABEL>
+      </rdf:Description>
+    </vcard:N>
+    <vcard:AGENT>Vuelan</vcard:AGENT>
+    <vcard:LABEL> Las Aves son animales vertebrados terrestres que tienen el cuerpo recubierto de plumas y las extremidades anteriores transformadas en alas. Todas tienen dos patas. Tienen pico y cola.</vcard:LABEL>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.animals.com/domesticos">
+    <vcard:N rdf:resource="http://www.animals.com/pez/"/>
+    <vcard:N rdf:resource="http://www.animals.com/pajaro/"/>
+    <vcard:N>
+      <rdf:Description rdf:about="http://www.animals.com/gato/">
+        <vcard:PHOTO>https://i.pinimg.com/originals/82/57/26/82572686571feba4a7c8e6dd1874e39f.jpg</vcard:PHOTO>
+        <vcard:Other>Patas</vcard:Other>
+        <vcard:LABEL>Mamífero felino de tamaño generalmente pequeño, cuerpo flexible, cabeza redonda, patas cortas, cola larga, pelo espeso y suave, largos bigotes y uñas retráctiles; es carnívoro y tiene gran agilidad, buen olfato, buen oído y excelente visión nocturna.</vcard:LABEL>
+      </rdf:Description>
+    </vcard:N>
+    <vcard:N rdf:resource="http://www.animals.com/canario/"/>
+    <vcard:N>
+      <rdf:Description rdf:about="http://www.animals.com/perro/">
+        <vcard:PHOTO>https://i.pinimg.com/originals/45/f3/14/45f31448500d1a19e0ef36fd7fcd8c77.jpg</vcard:PHOTO>
+        <vcard:Other>Patas</vcard:Other>
+        <vcard:LABEL>Pese a que todos los perros actuales tienen un antepasado común, hoy en día se conocen alrededor de 800 razas distintas con tamaños y fisonomías muy diferentes y originadas a partir de la selección artificial por parte de los seres humanos.</vcard:LABEL>
+      </rdf:Description>
+    </vcard:N>
+    <vcard:N>
+      <rdf:Description rdf:about="http://www.animals.com/Hamster/">
+        <vcard:PHOTO>https://i.redd.it/oc6ckxs7h6f21.jpg</vcard:PHOTO>
+        <vcard:Other>Patas</vcard:Other>
+        <vcard:LABEL>El hámster es un pequeño roedor usado como mascota pero también como animal de laboratorio. Este pequeño animal es originario de Oriente Medio y del sureste de Estados Unidos. También son conocidos como hámsteres. Su nombre científico es Cricetinae.</vcard:LABEL>
+      </rdf:Description>
+    </vcard:N>
+    <vcard:AGENT>Acompañan</vcard:AGENT>
+    <vcard:LABEL>Consideramos animales domésticos a todos aquellos que tienen una buena relación para convivir con humanos y que se adaptan bien a la vida casera.</vcard:LABEL>
+  </rdf:Description>
+</rdf:RDF>
