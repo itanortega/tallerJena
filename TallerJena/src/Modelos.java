@@ -103,22 +103,22 @@ public class Modelos {
             .addProperty(VCARD.LABEL, " Las Aves son animales vertebrados terrestres que tienen el cuerpo recubierto de plumas y las extremidades anteriores transformadas en alas. Todas tienen dos patas. Tienen pico y cola.")
             .addProperty(VCARD.AGENT, "Vuelan")                
             .addProperty(VCARD.N,
-                animalsModel.createResource(URI_BASE + "Papagayo/")
+                animalsModel.createResource(URI_BASE + "papagayo/")
                     .addProperty(VCARD.LABEL, "Ave trepadora de 30 a 40 cm de longitud, con el plumaje de colores muy vistosos y variados, y el pico fuerte, grueso y curvo; es capaz de imitar la voz humana; es propio de los bosques de los países tropicales, pero en domesticidad puede vivir en climas templados.")
                     .addProperty(VCARD.Other, "Alas")
                     .addProperty(VCARD.PHOTO,"https://i.pinimg.com/originals/4e/61/4c/4e614c752f79dcef73077bcbbeb96dff.jpg")
             )                
             .addProperty(VCARD.N,
-                animalsModel.createResource(URI_BASE + "Buitre/")
+                animalsModel.createResource(URI_BASE + "buitre/")
                     .addProperty(VCARD.LABEL, "Los buitres son aves rapaces del orden Falconiformes que suelen alimentarse especialmente de animales muertos, aunque a falta de estos, son capaces de cazar presas vivas.")
                     .addProperty(VCARD.Other, "Alas")
                     .addProperty(VCARD.PHOTO,"https://i.pinimg.com/originals/0a/56/59/0a5659e38f290a4b08b8dc261c7ac798.jpg")
             )                
             .addProperty(VCARD.N,
-                animalsModel.createResource(URI_BASE + "canario/")
-                    .addProperty(VCARD.LABEL, "El canario, también conocido como canario silvestre o serín canario y científicamente como Serinus canaria es un símbolo natural de las Islas Canarias en España.")
+                animalsModel.createResource(URI_BASE + "aguila/")
+                    .addProperty(VCARD.LABEL, "Águila es el nombre dado a las mayores aves depredadoras. Las diversas especies y subespecies de águilas pueden encontrarse en casi cualquier parte del mundo excepto en la Antártida.")
                     .addProperty(VCARD.Other, "Alas")
-                    .addProperty(VCARD.PHOTO,"https://i.pinimg.com/originals/f9/a1/81/f9a181357a920008789a0304fc4d4fee.jpg")
+                    .addProperty(VCARD.PHOTO,"https://i.pinimg.com/474x/30/55/16/30551699faf7000c1e59457b840c65e1--the-birds-birds-of-prey.jpg")
             )                
             .addProperty(VCARD.N,
                 animalsModel.createResource(URI_BASE + "pajaro/")
@@ -160,12 +160,12 @@ public class Modelos {
                     .addProperty(VCARD.LABEL, "El oso pardo es a menudo confundido con el oso grizzli, una subespecie, debido a la semejanza en su apariencia física. No deje que su nombre lo engañe los osos pardos pueden ser de color marrón, rubios, e incluso de color casi negro.")
                     .addProperty(VCARD.Other, "Pelaje")
                     .addProperty(VCARD.PHOTO,"https://i.pinimg.com/originals/96/d1/98/96d198c55e264042bb6edd7aceff50a9.jpg")
-            )                
+            )
             .addProperty(VCARD.N,
-                animalsModel.createResource(URI_BASE + "anteojos/")
-                    .addProperty(VCARD.LABEL, "El oso de anteojos, sin duda tiene un nombre interesante, sin embargo, cuando nos fijamos en uno, sin duda veremos de donde proviene el nombre. Tienen anillos de color blanco o dorado alrededor de los ojos, lo que hace que parezca que usan gafas, el resto de su pelaje es negro oscuro.")
-                    .addProperty(VCARD.Other, "Pelaje")
-                    .addProperty(VCARD.PHOTO,"https://i.pinimg.com/originals/39/58/5a/39585af5d1d8fd05e69275842f787088.jpg")
+                animalsModel.createResource(URI_BASE + "pinguino/")
+                    .addProperty(VCARD.LABEL, "Los pingüinos son bien conocidos por su elegante (como vestido de traje), apariencia, – con su blanco y negro, lo cual les da una apariencia única. Son una especie de ave, sin embargo no son capaces de volar.")
+                    .addProperty(VCARD.Other, "Aletas")
+                    .addProperty(VCARD.PHOTO,"https://i.pinimg.com/originals/a7/dc/9a/a7dc9a19e4665443d9962671017b1022.jpg")
             );
         
         Resource zoologico = animalsModel.createResource(URI_BASE + "zoologico")
